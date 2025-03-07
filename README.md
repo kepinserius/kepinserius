@@ -1,7 +1,7 @@
 # 👋 Hello, World!
 
 ## About Me
-I'm a tech enthusiast passionate about exploring the full spectrum of modern technology. My interests span across multiple domains, allowing me to understand how different technologies interconnect and complement each other.
+I'm Kevin Gymnastiar a tech enthusiast passionate about exploring the full spectrum of modern technology. My interests span across multiple domains, allowing me to understand how different technologies interconnect and complement each other.
 
 ## 🚀 Tech Interests
 
